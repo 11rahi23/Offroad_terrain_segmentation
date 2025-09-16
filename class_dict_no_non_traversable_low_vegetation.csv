@@ -1,0 +1,9 @@
+name, r, g, b
+unlabeled,0,0,0
+background,255,255,255
+high_vegetation,40,80,0
+traversable_grass,128,255,0
+smooth_trail,178,176,153
+obstacle,255,0,0
+sky,1,88,255
+puddle,255,0,128
